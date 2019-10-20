@@ -8,7 +8,7 @@ const router = express.Router();
 
 Joi.ObjectId = require('joi-objectid')(Joi);
 
-router.post('/', [auth, validator(validateSignOut)], async (req, res) => {
+router.post('/', [ validator(validateSignOut)], async (req, res) => {
     let visitor = await Visitor.find({'visitorId':req.body.visitorId,'visitorName':req.body.visitorName});
 
     if (!visitor) return res.status(404).send('Visitor not found.');
