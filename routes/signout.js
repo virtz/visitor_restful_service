@@ -32,7 +32,7 @@ function validateSignOut(req) {
 }
 function time() {
     var now = new Date;
-    var now2 = moment(now).format('MMMM Do YYYY, h:mm:ss a');
+    var now2 = moment(now).add(1,'hours').format('MMMM Do YYYY, h:mm:ss a');
     return now2
 }
 

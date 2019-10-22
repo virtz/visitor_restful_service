@@ -55,7 +55,7 @@ visitorSchema.statics.lookup = function(visitorId,visitorName){
     });
 }
 visitorSchema.methods.return = function(){
-    this.timeOut= new Date();
+    this.timeOut= new Date.UTC
     var now2 = moment(this.timeOut).format('MMMM Do YYYY, h:mm:ss a');
     return now2
 }
