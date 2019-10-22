@@ -4,7 +4,7 @@ const Joi = require('joi');
 
 function timeIn(){
 var now = new Date;
-var now2 = moment(now).format('MMMM Do YYYY, h:mm:ss a');
+var now2 = moment(now).add(1,"hours").format('MMMM Do YYYY, h:mm: a');
 return now2
 }
  const visitorSchema = new mongoose.Schema({
@@ -56,7 +56,7 @@ visitorSchema.statics.lookup = function(visitorId,visitorName){
 }
 visitorSchema.methods.return = function(){
     this.timeOut= new Date.UTC
-    var now2 = moment(this.timeOut).format('MMMM Do YYYY, h:mm:ss a');
+    var now2 = moment(this.timeOut).format('MMMM Do YYYY, h:mm: a');
     return now2
 }
 const Visitor = mongoose.model('Visitor',visitorSchema);
