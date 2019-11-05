@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node index.js"
+    "start": "node index.js"
   },
   "engines": {
-    "node":"11.12.0"
+    "node": "11.12.0"
   },
   "keywords": [],
   "author": "",
@@ -27,7 +27,7 @@
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "mongoose": "^5.7.4",
-    "nodemon": "^1.19.3",
+    "nodemon": "^1.19.4",
     "winston": "^2.4.0",
     "winston-mongodb": "^5.0.0"
   }

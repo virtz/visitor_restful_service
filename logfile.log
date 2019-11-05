@@ -30,3 +30,335 @@
 {"level":"info","message":"Listening on port 5000","timestamp":"2019-10-22T19:18:57.721Z"}
 {"level":"info","message":"Listening on port 5000","timestamp":"2019-10-22T19:19:09.715Z"}
 {"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-22T19:19:11.966Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:31:34.456Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:31:37.061Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:40:14.994Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:40:17.083Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:40:28.423Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:40:31.745Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:40:33.842Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:41:38.768Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:41:40.855Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:42:01.096Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:42:03.241Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:42:23.469Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:42:25.640Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:42:27.783Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:42:29.947Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:42:32.015Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:42:36.446Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:42:38.534Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:42:45.051Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:42:47.133Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:42:56.950Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:42:59.032Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:43:56.420Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:43:58.497Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:44:46.107Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:44:48.288Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:44:57.145Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:45:08.780Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:45:10.912Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:45:22.825Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:45:26.404Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:45:28.633Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:45:53.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:45:55.191Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:48:49.106Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:48:52.770Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:48:54.892Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:48:58.435Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:49:00.502Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:49:14.636Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:49:16.714Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:50:12.266Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:50:14.444Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:50:17.914Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:50:27.902Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:50:31.357Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:50:33.948Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:50:44.934Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:50:47.032Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:50:49.964Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:50:54.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:50:56.695Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:52:12.682Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:52:14.819Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:53:07.609Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:53:09.684Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:53:32.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:53:34.374Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:55:28.234Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:55:30.299Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:56:49.541Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:56:51.622Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:58:58.881Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:59:00.966Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:59:07.398Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:59:09.624Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:59:19.111Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:59:21.260Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T17:59:50.171Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T17:59:52.240Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:00:41.294Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:00:43.382Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:00:47.560Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:00:50.857Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:00:52.954Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:10:22.473Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:10:24.588Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:12:25.141Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:12:27.234Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:17:07.739Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:17:09.898Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:18:49.701Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:18:51.822Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:27:15.011Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:27:17.221Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:28:34.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:28:36.204Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:30:41.354Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:30:43.428Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:31:24.365Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:31:26.444Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:48:17.010Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:48:19.108Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:50:29.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:50:31.372Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:51:38.429Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:51:40.561Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-10-29T18:53:28.030Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-10-29T18:53:30.100Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:06:24.510Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:06:28.075Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:09:59.188Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:10:01.786Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:10:10.351Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:10:12.549Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:10:35.832Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:10:40.187Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:10:42.526Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:14:27.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:14:29.338Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:15:18.855Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:15:21.058Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:21:40.331Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:21:42.471Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:22:25.761Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:22:27.851Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:22:52.368Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:22:54.436Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:23:08.455Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:23:10.664Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:24:13.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:24:15.225Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:36:25.994Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:36:28.163Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:36:50.361Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:36:52.521Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:37:45.968Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:37:48.060Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:37:56.626Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:37:58.722Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:38:11.022Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:38:13.116Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:38:21.193Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:38:23.277Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:38:26.418Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:38:28.484Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:38:38.600Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:38:41.369Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:38:43.447Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:38:49.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:38:51.570Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:38:59.475Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:01.832Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:39:04.107Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:08.708Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:11.574Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:13.629Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:15.505Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:39:17.567Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:19.889Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:22.758Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:25.587Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:39:27.666Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:30.190Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:33.119Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:36.114Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:41.199Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:44.259Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:39:46.341Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:39:57.849Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:39:59.937Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:04.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:40:06.475Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:10.174Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:13.106Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:15.420Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:40:17.478Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:26.637Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:30.466Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:35.691Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:37.797Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:40:39.870Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:52.750Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:56.635Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:40:59.490Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:41:01.911Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:41:04.042Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:41:07.727Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:41:10.163Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:41:12.239Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:41:39.806Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:41:44.664Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:41:46.739Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:41:50.343Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:41:52.438Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:41:58.803Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:42:00.792Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:42:03.067Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:42:08.172Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:42:10.232Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:42:23.644Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:42:25.722Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:42:32.630Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:42:35.011Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:42:37.138Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:42:43.052Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:42:45.293Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:42:47.362Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:42:50.677Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:42:52.758Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:43:29.640Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:43:31.726Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:43:48.682Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:43:50.763Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:44:02.323Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:44:04.571Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:44:19.520Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:44:21.603Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:44:24.597Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:44:26.687Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:44:32.227Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:44:34.940Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:44:37.017Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:44:41.851Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:44:50.865Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:44:55.510Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:44:59.459Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:45:06.578Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:45:08.632Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:45:10.660Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:45:12.741Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:45:16.836Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:45:18.918Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:45:33.655Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:45:35.751Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:45:55.689Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:45:57.753Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:46:01.381Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:46:08.264Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:46:10.328Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:46:41.788Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:46:43.884Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:46:58.818Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:47:06.979Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:47:09.654Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:47:11.730Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:47:14.822Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:47:16.926Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:47:23.478Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:47:25.778Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:47:27.860Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:47:32.977Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:47:35.055Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:47:45.130Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:47:47.612Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:47:49.707Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:47:54.592Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:47:56.665Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:53:39.257Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:53:41.333Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:54:09.263Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:54:11.331Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:54:14.981Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:54:17.043Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:55:19.535Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:55:21.619Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:55:48.974Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:55:51.065Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:55:55.705Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T20:56:00.643Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T20:56:02.739Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:00:20.863Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:00:28.416Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:00:30.490Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:00:34.299Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:00:38.266Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:00:41.504Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:00:43.775Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:00:47.292Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:00:57.030Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:00:59.302Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:01:14.116Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:01:16.205Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:01:17.975Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:01:20.111Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:01:23.035Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:01:26.570Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:01:28.646Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:01:39.421Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:01:41.773Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:01:43.834Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:01:53.189Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:01:55.267Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:01:59.536Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:02:04.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:02:06.407Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:02:15.541Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:02:17.605Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:02:28.075Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:02:30.144Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:02:37.334Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:02:39.410Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:02:42.753Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:02:44.837Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:02:52.382Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:02:54.478Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:03:08.700Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:03:12.138Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:03:14.212Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:03:41.994Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:03:44.069Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:04:10.308Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:04:12.365Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:04:19.507Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:04:21.566Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:04:26.080Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:04:28.146Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:04:35.901Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:04:37.973Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:04:43.377Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:04:45.211Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:04:47.285Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:05:02.004Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:05:04.285Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:05:20.324Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:05:32.497Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:05:34.574Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:05:38.313Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:05:40.388Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:05:48.518Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:05:51.173Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:05:53.343Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:05:55.462Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:05:57.543Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:05:59.760Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:06:01.840Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:06:08.810Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:06:12.581Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:06:16.724Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:06:18.799Z"}
+{"level":"info","message":"Listening on port 5000","timestamp":"2019-11-05T21:06:27.226Z"}
+{"level":"info","message":"Connected to mongodb://localhost/contactmgm..","timestamp":"2019-11-05T21:06:29.286Z"}
