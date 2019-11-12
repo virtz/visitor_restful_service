@@ -6,7 +6,7 @@ const router = express.Router();
 const { Visitor, validate } = require('../models/visitor');
 
 router.get('/', async (req, res) => {
-    const visitors = await Visitor.find().sort('timeIn');
+    const visitors = await Visitor.find().sort('-timeIn');
     res.send(visitors);
 });
 
